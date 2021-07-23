@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "Products"
-      section: products
+      section: portfolio
     - title: "About"
       section: timeline
     - title: "Contact"

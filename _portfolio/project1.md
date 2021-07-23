@@ -1,13 +1,13 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Rainbow and Clouds Mobile
+subtitle: Handmade rainbow and cloud mobile.
+image: assets/img/products/full-rainbow-mobile.jpg
+alt: Rainbow and Clouds Mobile
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Rainbow and Clouds Mobile
+  subtitle: 
+  thumbnail: /assets/img/products/rainbow-closeup.jpg
 ---
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
