@@ -12,5 +12,5 @@ caption:
 Handmade personalised Tooth Fairy pillow. Has a pocket for the tooth to be placed in and then for the money once the tooth fairy leaves. Can be personalised with child’s name. Selection of colours for the pocket and the stitching. Ribbon attached so it can be hung on a door handle.
 
 {:.list-inline}
-- Available from: £8
+<!-- - Available from: £8 -->
 

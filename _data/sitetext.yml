@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "About"
-    text: ""
+    text: "I like to make things that make people happy."
     section: timeline
     # left is the default
     #start_align: "left"

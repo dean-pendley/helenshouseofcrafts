@@ -12,5 +12,5 @@ caption:
 Hand made mobile for child's cot with rainbow, clouds and brightly coloured raindrops.
 
 {:.list-inline}
-- Starting from: £50.00
+<!-- - Starting from: £50.00 -->
 

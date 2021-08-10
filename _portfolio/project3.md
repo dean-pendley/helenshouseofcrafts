@@ -12,5 +12,5 @@ caption:
 Handmade Pom Pom Rainbow Wreath. Each Pom Pom is individually made from a variety of colours. A polystyrene ring is wrapped in a colour wool of your choice. Ribbon is attached for hanging.
 
 {:.list-inline}
-- Starting from: £18.00
+<!-- - Starting from: £18.00 -->
 
