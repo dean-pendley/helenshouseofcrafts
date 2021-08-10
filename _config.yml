@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Helen's House of Craft
-email      : helen.pendley@gmail.com #this is also the email contact forms will go to
+# email      : helen.pendley@gmail.com #this is also the email contact forms will go to
 description: "Helen's House of Crafts"
 author     : Helen Pendley
 # logo:     #optional, defaults to site title
