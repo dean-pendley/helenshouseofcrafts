@@ -1,18 +1,16 @@
 ---
-title: Tree Loop
+title: Birds in Blossom Tree
 subtitle:
 image: assets/img/products/tree-loop.jpg
 alt: 
 
 caption:
-  title: Tree Loop
+  title: Birds in Blossom Tree
   subtitle: 
   thumbnail: assets/img/products/tree-loop.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+A hand embroidered tree with hand cut felt birds stitched on. Small beads are individually sewn on to the tree for blossom. All in a 6 inch wooden hoop. Various coloured felt and thread available. Can be personalised for a small additional cost. A Pom Pom trim can be attached around the edge of the hoop. The hoop is backed with white felt and a ribbon loop attached at the top.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Starting from: £10.00
 

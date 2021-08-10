@@ -1,18 +1,16 @@
 ---
-title: Toothfairy Pillow
+title: Tooth fairy Pillow
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: /assets/img/products/tooth-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Toothfairy Pillow
+  title: Tooth fairy Pillow
   subtitle: 
   thumbnail: /assets/img/products/tooth-full.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Handmade personalised Tooth Fairy pillow. Has a pocket for the tooth to be placed in and then for the money once the tooth fairy leaves. Can be personalised with child’s name. Selection of colours for the pocket and the stitching. Ribbon attached so it can be hung on a door handle.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Available from: £8
 

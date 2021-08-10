@@ -1,18 +1,15 @@
 ---
-title: Rainbow Loop
+title: Embroidered Rainbow
 subtitle:
 image: assets/img/products/rainbow-loop.jpg
 alt: 
 
 caption:
-  title: Rainbow Loop
+  title: Embroidered Rainbow
   subtitle: 
   thumbnail: assets/img/products/rainbow-loop.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Hand stitched rainbow with felt clouds, in a 6 inch wooden hoop. Can be done in various colours, pastel and primary. A name can be stitched in between the clouds for a small additional cost. The back of the hoop is covered in felt with a ribbon loop attached at the top so can be hung up.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+- Starting from: £10.00

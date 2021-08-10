@@ -9,10 +9,8 @@ caption:
   subtitle: 
   thumbnail: assets/img/products/rainbow-ring.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Handmade Pom Pom Rainbow Wreath. Each Pom Pom is individually made from a variety of colours. A polystyrene ring is wrapped in a colour wool of your choice. Ribbon is attached for hanging.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Starting from: £18.00
 

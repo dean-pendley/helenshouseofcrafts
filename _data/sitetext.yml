@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Hand Made"
         desc: ""
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-hand-sparkles #find more at https://fontawesome.com/icons
       - title: "Personalised"
         desc: ""
         icon: fas fa-laptop
